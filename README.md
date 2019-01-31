@@ -15,3 +15,6 @@ https://developers.google.com/ar/discover/supported-devices#android_play
 
 # 開発環境
 - Android Studio 3.1以上
+
+# その他
+A3のアイリッジのロゴをターゲットになっています
