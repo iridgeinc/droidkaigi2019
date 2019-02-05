@@ -1,3 +1,6 @@
+/*
+ * Copyright 2019 iRidge, Inc. All Rights Reserved.
+ */
 package jp.co.iridge.droid.util;
 
 import android.content.Context;
